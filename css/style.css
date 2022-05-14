@@ -37,7 +37,7 @@ img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 
 .body {
-    background-image: url('../assets/Background.jpg');
+    background-image: url('/header_2/assets/Background.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
  
@@ -122,5 +122,5 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 .block {
     width: 500px;
     height: 200px;
-    background-image: url('../assets/Background.svg');
+    background-image: url('/header_2/assets/Background.svg');
 }
